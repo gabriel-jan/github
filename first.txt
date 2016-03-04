@@ -1,4 +1,4 @@
-ciao *modification* master modification
+ciao *modification* master modification edited while resolving
 ciao belli *second modification*
 hallo
 hallo nicola
